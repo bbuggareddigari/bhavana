@@ -40,21 +40,13 @@ You are to take the sample code listed in Chapter 02, the MnMCount for both Pyth
 Make sure the `vagrant@your-initials` is in the screenshot
 
 ### PySpark ScreenShot
+<img width="797" alt="Bhavana_pysc" src="https://github.com/bbuggareddigari/bhavana/assets/156284056/a88b8139-fad6-4b4b-9ce1-1e367853bd98">
 
-Place PySpark screenshot here
 
-### SBT build Output Screenshot
+### SBT Build Screenshot
+<img width="837" alt="bhavana_sbt build sc" src="https://github.com/bbuggareddigari/bhavana/assets/156284056/7bf6da2f-9533-4339-b1da-3096131e5b9c">
 
-Place screenshot here
+
 
 ### Spark Scala ScreenShot
-
-Place Scala screenshot here
-
-## Deliverables
-
-Using this template, under the `itmd-521` directory in your local repository, create a sub-directory named `labs`. Under that create another subdirectory named `week-03` and place this Readme.md file in that directory along with a folder for images.
-
-You also need to include your python and scala code and the `build.sbt` file. Push the code to your remote GitHub repo and submit the URL to this location in Blackboard.
-
-Do not push any data files into your GitHub repo
+<img width="865" alt="Bhavana_scala" src="https://github.com/bbuggareddigari/bhavana/assets/156284056/6d20d397-a431-4d01-aaf9-8f214005464d">
